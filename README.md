@@ -4,3 +4,5 @@ Based on the blog Simple Training for Beginners by MohammedAboOkali on the Codef
 You can access the blog at this link:
 
 <a href="https://codeforces.com/blog/entry/82143">**https://codeforces.com/blog/entry/82143**</a>
+
+I gave the answer which can be accessed in this repo.
